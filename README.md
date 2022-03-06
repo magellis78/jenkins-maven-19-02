@@ -3,3 +3,4 @@ integration of  git + jenkins + maven
 change by developer B
 v1.1.3
 testing
+build
